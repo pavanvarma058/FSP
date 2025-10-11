@@ -1,0 +1,15 @@
+D:\FSP\Unit-2-Variables\3-Pythagors-Theorem\bin\Debug\net8.0\3-Pythagors-Theorem.exe
+D:\FSP\Unit-2-Variables\3-Pythagors-Theorem\bin\Debug\net8.0\3-Pythagors-Theorem.deps.json
+D:\FSP\Unit-2-Variables\3-Pythagors-Theorem\bin\Debug\net8.0\3-Pythagors-Theorem.runtimeconfig.json
+D:\FSP\Unit-2-Variables\3-Pythagors-Theorem\bin\Debug\net8.0\3-Pythagors-Theorem.dll
+D:\FSP\Unit-2-Variables\3-Pythagors-Theorem\bin\Debug\net8.0\3-Pythagors-Theorem.pdb
+D:\FSP\Unit-2-Variables\3-Pythagors-Theorem\obj\Debug\net8.0\3-Pythagors-Theorem.GeneratedMSBuildEditorConfig.editorconfig
+D:\FSP\Unit-2-Variables\3-Pythagors-Theorem\obj\Debug\net8.0\3-Pythagors-Theorem.AssemblyInfoInputs.cache
+D:\FSP\Unit-2-Variables\3-Pythagors-Theorem\obj\Debug\net8.0\3-Pythagors-Theorem.AssemblyInfo.cs
+D:\FSP\Unit-2-Variables\3-Pythagors-Theorem\obj\Debug\net8.0\3-Pythagors-Theorem.csproj.CoreCompileInputs.cache
+D:\FSP\Unit-2-Variables\3-Pythagors-Theorem\obj\Debug\net8.0\3-Pythagors-Theorem.sourcelink.json
+D:\FSP\Unit-2-Variables\3-Pythagors-Theorem\obj\Debug\net8.0\3-Pythagors-Theorem.dll
+D:\FSP\Unit-2-Variables\3-Pythagors-Theorem\obj\Debug\net8.0\refint\3-Pythagors-Theorem.dll
+D:\FSP\Unit-2-Variables\3-Pythagors-Theorem\obj\Debug\net8.0\3-Pythagors-Theorem.pdb
+D:\FSP\Unit-2-Variables\3-Pythagors-Theorem\obj\Debug\net8.0\3-Pythagors-Theorem.genruntimeconfig.cache
+D:\FSP\Unit-2-Variables\3-Pythagors-Theorem\obj\Debug\net8.0\ref\3-Pythagors-Theorem.dll

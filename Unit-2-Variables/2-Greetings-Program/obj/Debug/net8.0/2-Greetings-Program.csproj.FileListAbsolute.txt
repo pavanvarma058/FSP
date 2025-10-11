@@ -1,0 +1,15 @@
+D:\FSP\Unit-2-Variables\2-Greetings-Program\bin\Debug\net8.0\2-Greetings-Program.exe
+D:\FSP\Unit-2-Variables\2-Greetings-Program\bin\Debug\net8.0\2-Greetings-Program.deps.json
+D:\FSP\Unit-2-Variables\2-Greetings-Program\bin\Debug\net8.0\2-Greetings-Program.runtimeconfig.json
+D:\FSP\Unit-2-Variables\2-Greetings-Program\bin\Debug\net8.0\2-Greetings-Program.dll
+D:\FSP\Unit-2-Variables\2-Greetings-Program\bin\Debug\net8.0\2-Greetings-Program.pdb
+D:\FSP\Unit-2-Variables\2-Greetings-Program\obj\Debug\net8.0\2-Greetings-Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\FSP\Unit-2-Variables\2-Greetings-Program\obj\Debug\net8.0\2-Greetings-Program.AssemblyInfoInputs.cache
+D:\FSP\Unit-2-Variables\2-Greetings-Program\obj\Debug\net8.0\2-Greetings-Program.AssemblyInfo.cs
+D:\FSP\Unit-2-Variables\2-Greetings-Program\obj\Debug\net8.0\2-Greetings-Program.csproj.CoreCompileInputs.cache
+D:\FSP\Unit-2-Variables\2-Greetings-Program\obj\Debug\net8.0\2-Greetings-Program.sourcelink.json
+D:\FSP\Unit-2-Variables\2-Greetings-Program\obj\Debug\net8.0\2-Greetings-Program.dll
+D:\FSP\Unit-2-Variables\2-Greetings-Program\obj\Debug\net8.0\refint\2-Greetings-Program.dll
+D:\FSP\Unit-2-Variables\2-Greetings-Program\obj\Debug\net8.0\2-Greetings-Program.pdb
+D:\FSP\Unit-2-Variables\2-Greetings-Program\obj\Debug\net8.0\2-Greetings-Program.genruntimeconfig.cache
+D:\FSP\Unit-2-Variables\2-Greetings-Program\obj\Debug\net8.0\ref\2-Greetings-Program.dll

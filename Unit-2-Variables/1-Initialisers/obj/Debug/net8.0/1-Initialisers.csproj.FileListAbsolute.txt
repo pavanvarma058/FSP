@@ -1,0 +1,15 @@
+D:\FSP\Unit-2-Variables\1-Initialisers\bin\Debug\net8.0\1-Initialisers.exe
+D:\FSP\Unit-2-Variables\1-Initialisers\bin\Debug\net8.0\1-Initialisers.deps.json
+D:\FSP\Unit-2-Variables\1-Initialisers\bin\Debug\net8.0\1-Initialisers.runtimeconfig.json
+D:\FSP\Unit-2-Variables\1-Initialisers\bin\Debug\net8.0\1-Initialisers.dll
+D:\FSP\Unit-2-Variables\1-Initialisers\bin\Debug\net8.0\1-Initialisers.pdb
+D:\FSP\Unit-2-Variables\1-Initialisers\obj\Debug\net8.0\1-Initialisers.GeneratedMSBuildEditorConfig.editorconfig
+D:\FSP\Unit-2-Variables\1-Initialisers\obj\Debug\net8.0\1-Initialisers.AssemblyInfoInputs.cache
+D:\FSP\Unit-2-Variables\1-Initialisers\obj\Debug\net8.0\1-Initialisers.AssemblyInfo.cs
+D:\FSP\Unit-2-Variables\1-Initialisers\obj\Debug\net8.0\1-Initialisers.csproj.CoreCompileInputs.cache
+D:\FSP\Unit-2-Variables\1-Initialisers\obj\Debug\net8.0\1-Initialisers.sourcelink.json
+D:\FSP\Unit-2-Variables\1-Initialisers\obj\Debug\net8.0\1-Initialisers.dll
+D:\FSP\Unit-2-Variables\1-Initialisers\obj\Debug\net8.0\refint\1-Initialisers.dll
+D:\FSP\Unit-2-Variables\1-Initialisers\obj\Debug\net8.0\1-Initialisers.pdb
+D:\FSP\Unit-2-Variables\1-Initialisers\obj\Debug\net8.0\1-Initialisers.genruntimeconfig.cache
+D:\FSP\Unit-2-Variables\1-Initialisers\obj\Debug\net8.0\ref\1-Initialisers.dll
