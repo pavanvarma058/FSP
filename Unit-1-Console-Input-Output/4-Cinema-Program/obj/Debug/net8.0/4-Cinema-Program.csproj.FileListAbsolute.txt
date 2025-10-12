@@ -1,0 +1,15 @@
+D:\FSP\Unit-1-Console-Input-Output\4-Cinema-Program\bin\Debug\net8.0\4-Cinema-Program.exe
+D:\FSP\Unit-1-Console-Input-Output\4-Cinema-Program\bin\Debug\net8.0\4-Cinema-Program.deps.json
+D:\FSP\Unit-1-Console-Input-Output\4-Cinema-Program\bin\Debug\net8.0\4-Cinema-Program.runtimeconfig.json
+D:\FSP\Unit-1-Console-Input-Output\4-Cinema-Program\bin\Debug\net8.0\4-Cinema-Program.dll
+D:\FSP\Unit-1-Console-Input-Output\4-Cinema-Program\bin\Debug\net8.0\4-Cinema-Program.pdb
+D:\FSP\Unit-1-Console-Input-Output\4-Cinema-Program\obj\Debug\net8.0\4-Cinema-Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\FSP\Unit-1-Console-Input-Output\4-Cinema-Program\obj\Debug\net8.0\4-Cinema-Program.AssemblyInfoInputs.cache
+D:\FSP\Unit-1-Console-Input-Output\4-Cinema-Program\obj\Debug\net8.0\4-Cinema-Program.AssemblyInfo.cs
+D:\FSP\Unit-1-Console-Input-Output\4-Cinema-Program\obj\Debug\net8.0\4-Cinema-Program.csproj.CoreCompileInputs.cache
+D:\FSP\Unit-1-Console-Input-Output\4-Cinema-Program\obj\Debug\net8.0\4-Cinema-Program.sourcelink.json
+D:\FSP\Unit-1-Console-Input-Output\4-Cinema-Program\obj\Debug\net8.0\4-Cinema-Program.dll
+D:\FSP\Unit-1-Console-Input-Output\4-Cinema-Program\obj\Debug\net8.0\refint\4-Cinema-Program.dll
+D:\FSP\Unit-1-Console-Input-Output\4-Cinema-Program\obj\Debug\net8.0\4-Cinema-Program.pdb
+D:\FSP\Unit-1-Console-Input-Output\4-Cinema-Program\obj\Debug\net8.0\4-Cinema-Program.genruntimeconfig.cache
+D:\FSP\Unit-1-Console-Input-Output\4-Cinema-Program\obj\Debug\net8.0\ref\4-Cinema-Program.dll
