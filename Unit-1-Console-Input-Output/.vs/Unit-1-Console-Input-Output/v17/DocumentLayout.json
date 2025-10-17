@@ -3,20 +3,23 @@
   "WorkspaceRootPath": "D:\\FSP\\Unit-1-Console-Input-Output\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E09726BA-93E2-4C2A-BA0A-54504CDB0A79}|4-Cinema-Program\\4-Cinema-Program.csproj|d:\\fsp\\unit-1-console-input-output\\4-cinema-program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E09726BA-93E2-4C2A-BA0A-54504CDB0A79}|4-Cinema-Program\\4-Cinema-Program.csproj|solutionrelative:4-cinema-program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50A76EE8-3C79-4033-9C77-907549730BFE}|..\\Unit-3-Conditional-Branching\\2-Quiz-Program\\2-Quiz-Program.csproj|d:\\fsp\\unit-3-conditional-branching\\2-quiz-program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C80A411A-863F-42BC-8780-90445D7EC33B}|3-Favourite-Book\\3-Favourite-Book.csproj|d:\\fsp\\unit-1-console-input-output\\3-favourite-book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80A411A-863F-42BC-8780-90445D7EC33B}|3-Favourite-Book\\3-Favourite-Book.csproj|solutionrelative:3-favourite-book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FSP\\Unit-1-Console-Input-Output\\4-Cinema-Program\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:4-Cinema-Program\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A7C8C2B-C5FA-4BF8-9CAA-D6C5688594EC}|2-Hello-World\\2-Hello-World.csproj|d:\\fsp\\unit-1-console-input-output\\2-hello-world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A7C8C2B-C5FA-4BF8-9CAA-D6C5688594EC}|2-Hello-World\\2-Hello-World.csproj|solutionrelative:2-hello-world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FSP\\Unit-1-Console-Input-Output\\3-Favourite-Book\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3-Favourite-Book\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F83E57C-611A-4460-8D6A-4824112459BE}|1-Understanding\\1-Understanding.csproj|d:\\fsp\\unit-1-console-input-output\\1-understanding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F83E57C-611A-4460-8D6A-4824112459BE}|1-Understanding\\1-Understanding.csproj|solutionrelative:1-understanding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FSP\\Unit-1-Console-Input-Output\\2-Hello-World\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2-Hello-World\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FSP\\Unit-1-Console-Input-Output\\1-Understanding\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1-Understanding\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,6 +35,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FSP\\Unit-3-Conditional-Branching\\2-Quiz-Program\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Unit-3-Conditional-Branching\\2-Quiz-Program\\Program.cs",
+              "ToolTip": "D:\\FSP\\Unit-3-Conditional-Branching\\2-Quiz-Program\\Program.cs",
+              "RelativeToolTip": "..\\Unit-3-Conditional-Branching\\2-Quiz-Program\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:29:15.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\FSP\\Unit-1-Console-Input-Output\\4-Cinema-Program\\Program.cs",
               "RelativeDocumentMoniker": "4-Cinema-Program\\Program.cs",
               "ToolTip": "D:\\FSP\\Unit-1-Console-Input-Output\\4-Cinema-Program\\Program.cs",
@@ -43,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FSP\\Unit-1-Console-Input-Output\\3-Favourite-Book\\Program.cs",
               "RelativeDocumentMoniker": "3-Favourite-Book\\Program.cs",
@@ -51,12 +67,11 @@
               "RelativeToolTip": "3-Favourite-Book\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T21:38:19.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T21:38:19.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FSP\\Unit-1-Console-Input-Output\\2-Hello-World\\Program.cs",
               "RelativeDocumentMoniker": "2-Hello-World\\Program.cs",
@@ -64,12 +79,11 @@
               "RelativeToolTip": "2-Hello-World\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T21:36:39.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T21:36:39.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FSP\\Unit-1-Console-Input-Output\\1-Understanding\\Program.cs",
               "RelativeDocumentMoniker": "1-Understanding\\Program.cs",
@@ -77,8 +91,7 @@
               "RelativeToolTip": "1-Understanding\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T21:18:31.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T21:18:31.998Z"
             }
           ]
         }
