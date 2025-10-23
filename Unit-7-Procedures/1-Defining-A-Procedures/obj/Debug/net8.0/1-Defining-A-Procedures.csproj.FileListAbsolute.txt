@@ -1,0 +1,15 @@
+D:\FSP\Unit-7-Procedures\1-Defining-A-Procedures\obj\Debug\net8.0\1-Defining-A-Procedures.GeneratedMSBuildEditorConfig.editorconfig
+D:\FSP\Unit-7-Procedures\1-Defining-A-Procedures\obj\Debug\net8.0\1-Defining-A-Procedures.AssemblyInfoInputs.cache
+D:\FSP\Unit-7-Procedures\1-Defining-A-Procedures\obj\Debug\net8.0\1-Defining-A-Procedures.AssemblyInfo.cs
+D:\FSP\Unit-7-Procedures\1-Defining-A-Procedures\obj\Debug\net8.0\1-Defining-A-Procedures.csproj.CoreCompileInputs.cache
+D:\FSP\Unit-7-Procedures\1-Defining-A-Procedures\obj\Debug\net8.0\1-Defining-A-Procedures.sourcelink.json
+D:\FSP\Unit-7-Procedures\1-Defining-A-Procedures\bin\Debug\net8.0\1-Defining-A-Procedures.exe
+D:\FSP\Unit-7-Procedures\1-Defining-A-Procedures\bin\Debug\net8.0\1-Defining-A-Procedures.deps.json
+D:\FSP\Unit-7-Procedures\1-Defining-A-Procedures\bin\Debug\net8.0\1-Defining-A-Procedures.runtimeconfig.json
+D:\FSP\Unit-7-Procedures\1-Defining-A-Procedures\bin\Debug\net8.0\1-Defining-A-Procedures.dll
+D:\FSP\Unit-7-Procedures\1-Defining-A-Procedures\bin\Debug\net8.0\1-Defining-A-Procedures.pdb
+D:\FSP\Unit-7-Procedures\1-Defining-A-Procedures\obj\Debug\net8.0\1-Defining-A-Procedures.dll
+D:\FSP\Unit-7-Procedures\1-Defining-A-Procedures\obj\Debug\net8.0\refint\1-Defining-A-Procedures.dll
+D:\FSP\Unit-7-Procedures\1-Defining-A-Procedures\obj\Debug\net8.0\1-Defining-A-Procedures.pdb
+D:\FSP\Unit-7-Procedures\1-Defining-A-Procedures\obj\Debug\net8.0\1-Defining-A-Procedures.genruntimeconfig.cache
+D:\FSP\Unit-7-Procedures\1-Defining-A-Procedures\obj\Debug\net8.0\ref\1-Defining-A-Procedures.dll

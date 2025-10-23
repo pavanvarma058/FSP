@@ -5,11 +5,13 @@
         static void Main(string[] args)
         {
             greetings();
+
+            Console.ReadLine();
         }
-    }
         // Defining a procedure
         static void greetings()
         {
             Console.WriteLine("Hello, Good Morning!");
         }
     }
+}

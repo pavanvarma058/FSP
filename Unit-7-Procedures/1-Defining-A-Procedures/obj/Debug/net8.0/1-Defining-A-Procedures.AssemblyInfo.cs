@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1-Defining-A-Procedures")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a95697f11d40f3dd24a8cbc21bd5956b00673ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a333d9e84c5ae8f102774d07960891ebf4e7fabb")]
 [assembly: System.Reflection.AssemblyProductAttribute("1-Defining-A-Procedures")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1-Defining-A-Procedures")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
