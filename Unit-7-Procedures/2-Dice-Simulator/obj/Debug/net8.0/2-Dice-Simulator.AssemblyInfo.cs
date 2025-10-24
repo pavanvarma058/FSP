@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2-Dice-Simulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87cf008487aaedd8c47ea696ec44a158f7b92689")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3c6441cf7c15d69e9b3bd9f9893271ec49a320a")]
 [assembly: System.Reflection.AssemblyProductAttribute("2-Dice-Simulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2-Dice-Simulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
