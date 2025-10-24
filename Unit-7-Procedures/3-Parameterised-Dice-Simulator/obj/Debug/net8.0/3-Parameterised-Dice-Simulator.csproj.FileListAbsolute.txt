@@ -1,0 +1,15 @@
+D:\FSP\Unit-7-Procedures\3-Parameterised-Dice-Simulator\bin\Debug\net8.0\3-Parameterised-Dice-Simulator.exe
+D:\FSP\Unit-7-Procedures\3-Parameterised-Dice-Simulator\bin\Debug\net8.0\3-Parameterised-Dice-Simulator.deps.json
+D:\FSP\Unit-7-Procedures\3-Parameterised-Dice-Simulator\bin\Debug\net8.0\3-Parameterised-Dice-Simulator.runtimeconfig.json
+D:\FSP\Unit-7-Procedures\3-Parameterised-Dice-Simulator\bin\Debug\net8.0\3-Parameterised-Dice-Simulator.dll
+D:\FSP\Unit-7-Procedures\3-Parameterised-Dice-Simulator\bin\Debug\net8.0\3-Parameterised-Dice-Simulator.pdb
+D:\FSP\Unit-7-Procedures\3-Parameterised-Dice-Simulator\obj\Debug\net8.0\3-Parameterised-Dice-Simulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\FSP\Unit-7-Procedures\3-Parameterised-Dice-Simulator\obj\Debug\net8.0\3-Parameterised-Dice-Simulator.AssemblyInfoInputs.cache
+D:\FSP\Unit-7-Procedures\3-Parameterised-Dice-Simulator\obj\Debug\net8.0\3-Parameterised-Dice-Simulator.AssemblyInfo.cs
+D:\FSP\Unit-7-Procedures\3-Parameterised-Dice-Simulator\obj\Debug\net8.0\3-Parameterised-Dice-Simulator.csproj.CoreCompileInputs.cache
+D:\FSP\Unit-7-Procedures\3-Parameterised-Dice-Simulator\obj\Debug\net8.0\3-Parameterised-Dice-Simulator.sourcelink.json
+D:\FSP\Unit-7-Procedures\3-Parameterised-Dice-Simulator\obj\Debug\net8.0\3-Parameterised-Dice-Simulator.dll
+D:\FSP\Unit-7-Procedures\3-Parameterised-Dice-Simulator\obj\Debug\net8.0\refint\3-Parameterised-Dice-Simulator.dll
+D:\FSP\Unit-7-Procedures\3-Parameterised-Dice-Simulator\obj\Debug\net8.0\3-Parameterised-Dice-Simulator.pdb
+D:\FSP\Unit-7-Procedures\3-Parameterised-Dice-Simulator\obj\Debug\net8.0\3-Parameterised-Dice-Simulator.genruntimeconfig.cache
+D:\FSP\Unit-7-Procedures\3-Parameterised-Dice-Simulator\obj\Debug\net8.0\ref\3-Parameterised-Dice-Simulator.dll

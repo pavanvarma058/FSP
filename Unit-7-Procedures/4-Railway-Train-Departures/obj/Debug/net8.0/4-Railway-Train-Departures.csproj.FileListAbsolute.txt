@@ -1,0 +1,15 @@
+D:\FSP\Unit-7-Procedures\4-Railway-Train-Departures\bin\Debug\net8.0\4-Railway-Train-Departures.exe
+D:\FSP\Unit-7-Procedures\4-Railway-Train-Departures\bin\Debug\net8.0\4-Railway-Train-Departures.deps.json
+D:\FSP\Unit-7-Procedures\4-Railway-Train-Departures\bin\Debug\net8.0\4-Railway-Train-Departures.runtimeconfig.json
+D:\FSP\Unit-7-Procedures\4-Railway-Train-Departures\bin\Debug\net8.0\4-Railway-Train-Departures.dll
+D:\FSP\Unit-7-Procedures\4-Railway-Train-Departures\bin\Debug\net8.0\4-Railway-Train-Departures.pdb
+D:\FSP\Unit-7-Procedures\4-Railway-Train-Departures\obj\Debug\net8.0\4-Railway-Train-Departures.GeneratedMSBuildEditorConfig.editorconfig
+D:\FSP\Unit-7-Procedures\4-Railway-Train-Departures\obj\Debug\net8.0\4-Railway-Train-Departures.AssemblyInfoInputs.cache
+D:\FSP\Unit-7-Procedures\4-Railway-Train-Departures\obj\Debug\net8.0\4-Railway-Train-Departures.AssemblyInfo.cs
+D:\FSP\Unit-7-Procedures\4-Railway-Train-Departures\obj\Debug\net8.0\4-Railway-Train-Departures.csproj.CoreCompileInputs.cache
+D:\FSP\Unit-7-Procedures\4-Railway-Train-Departures\obj\Debug\net8.0\4-Railway-Train-Departures.sourcelink.json
+D:\FSP\Unit-7-Procedures\4-Railway-Train-Departures\obj\Debug\net8.0\4-Railway-Train-Departures.dll
+D:\FSP\Unit-7-Procedures\4-Railway-Train-Departures\obj\Debug\net8.0\refint\4-Railway-Train-Departures.dll
+D:\FSP\Unit-7-Procedures\4-Railway-Train-Departures\obj\Debug\net8.0\4-Railway-Train-Departures.pdb
+D:\FSP\Unit-7-Procedures\4-Railway-Train-Departures\obj\Debug\net8.0\4-Railway-Train-Departures.genruntimeconfig.cache
+D:\FSP\Unit-7-Procedures\4-Railway-Train-Departures\obj\Debug\net8.0\ref\4-Railway-Train-Departures.dll
