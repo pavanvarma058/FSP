@@ -8,6 +8,7 @@ The module primarily focuses on learning the **core programming principles** usi
 - Unit-1-Console-Input-And-Output
 - Unit-2-Variables
 - Unit-3-Conditional-Branching
+- Unit-7-Procedures
 
 ---
 
@@ -21,4 +22,5 @@ The module primarily focuses on learning the **core programming principles** usi
 
 
 ---
+
 
