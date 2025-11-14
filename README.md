@@ -10,6 +10,7 @@ The module primarily focuses on learning the **core programming principles** usi
 - Unit-3-Conditional-Branching
 - Unit-4-Loops
 - Unit-5-Alternative-Loop-Control
+- Unit-6-Arrays
 - Unit-7-Procedures
 
 ---
@@ -24,6 +25,7 @@ The module primarily focuses on learning the **core programming principles** usi
 
 
 ---
+
 
 
 
