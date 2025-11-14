@@ -12,6 +12,7 @@ The module primarily focuses on learning the **core programming principles** usi
 - Unit-5-Alternative-Loop-Control
 - Unit-6-Arrays
 - Unit-7-Procedures
+- Unit-8-Functions
 
 ---
 
@@ -25,6 +26,7 @@ The module primarily focuses on learning the **core programming principles** usi
 
 
 ---
+
 
 
 
