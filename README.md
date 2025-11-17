@@ -14,6 +14,7 @@ The module primarily focuses on learning the **core programming principles** usi
 - Unit-7-Procedures
 - Unit-8-Functions
 - Unit-9-File-Input-And-Output
+- Unit-10-Exceptions
 
 ---
 
@@ -27,6 +28,7 @@ The module primarily focuses on learning the **core programming principles** usi
 
 
 ---
+
 
 
 
