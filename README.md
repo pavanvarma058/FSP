@@ -17,6 +17,7 @@ The module primarily focuses on learning the **core programming principles** usi
 - Unit-10-Exceptions
 - Unit-11-Structures
 - Unit-12-References
+- Unit-13-Methods
 
 ---
 
@@ -30,6 +31,7 @@ The module primarily focuses on learning the **core programming principles** usi
 
 
 ---
+
 
 
 
